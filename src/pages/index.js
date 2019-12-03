@@ -14,8 +14,8 @@ const IndexPage = () => (
         <SEO title="Make your Staff and Workspace Happy"/>
 
         <div className={"page-header home"}>
-            <h1>Make your Staff and Workspace Happy</h1>
-            <p>HiStaff gives your complex the opportunity to increase the percentage of happiness<br/>and enjoyment of your staff and as a result, bring productivity to your workspace.</p>
+            <h1>Agenda tus servicios en una plataforma</h1>
+            <p>Saas te permite crear, gestionar, y agendar tus servicios<br/>en minutos.</p>
             <img alt={"Dashboard"} src={featureImage}/>
         </div>
 
@@ -31,7 +31,7 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Create and Join Events</h2>
+                                <h2>Agenda servicios de una forma fácil</h2>
                                 <p>Save your time and energy by letting HiStaff to manage your events (handle the colleague’s birthday, gathering, etc.)</p>
                             </div>
                         </div>
@@ -42,8 +42,8 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Public Board</h2>
-                                <p>Let the staff write down on the board freely,<br/>Joking with each other and writing cool content can make the workplace more diverse and attractive for employees. </p>
+                                <h2>Gestiona tus servicios</h2>
+                                <p>Mira actualizaciones , estados de pago, información adicional,<br/>detalles de usuario en un único lugar. </p>
                             </div>
                         </div>
 
@@ -65,8 +65,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Internal News</h2>
-                                <p>Get rid of sending news by e-mail and its problems; post the news in an internal and attractive format via HiStaff instead.</p>
+                                <h2>Crea productos</h2>
+                                <p>¿Comida a domicilio?, ¿Regalos a domicilio?, ¿Masajes a domicilio? . Lo que quieras puedes crearlo en nuestra plataforma.</p>
                             </div>
                         </div>
                     </div>
@@ -76,8 +76,8 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Teams</h2>
-                                <p>HiStaff let you add staff in specific teams and manage them easily.</p>
+                                <h2>Mide Satisfacción</h2>
+                                <p>Puedes medir la satisfacción de tus usuarios, luego de cada servicio.</p>
                             </div>
                         </div>
 
@@ -99,8 +99,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Staff management</h2>
-                                <p>Discard traditional ways to archive staff documents and information, and try new ways to store and archive them in HiStaff easily.</p>
+                                <h2>Facturación y pagos</h2>
+                                <p>Crea diferentes formas de pago y factura a tus clientes.</p>
                             </div>
                         </div>
                     </div>
